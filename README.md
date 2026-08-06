@@ -2,7 +2,7 @@ HPC26 / T0 — Performance Profiling and Optimization using GPROF and PERF
 
 Sorting ~50 years of simulated daily temperature data, profiled with GPROF and PERF.
 
-Author: Siddharth Kancharla — S20240030402 — IIIT Sri City
+Author: Siddharth Kancharla - S20240030402 — IIIT Sri City
 
 Files
 
